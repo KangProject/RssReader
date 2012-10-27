@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="ServiceName">
+        <item >googleニュース</item>
+    </string-array>
+    <string-array name="ServiceUrl">
+        <item >http://news.google.com/news?hl=ja&amp;ned=us&amp;ie=UTF-8&amp;oe=UTF-8&amp;output=rss</item>
+    </string-array>
+    
+</resources>
